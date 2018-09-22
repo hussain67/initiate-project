@@ -1,0 +1,19 @@
+{
+  "name": "initiate-project",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussain67/initiate-project.git"
+  },
+  "author": "Hussain Md Shahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hussain67/initiate-project/issues"
+  },
+  "homepage": "https://github.com/hussain67/initiate-project#readme"
+}
